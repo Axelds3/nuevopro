@@ -1,0 +1,70 @@
+{
+    "1": {
+      "id": 1,
+      "model": "civic",
+      "brand": "honda",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "2": {
+      "id": 2,
+      "model": "accord",
+      "brand": "honda",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "3": {
+      "id": 3,
+      "model": "camry",
+      "brand": "toyota"
+    },
+    "4": {
+      "id": 4,
+      "model": "corolla",
+      "brand": "toyota",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "5": {
+      "id": 5,
+      "model": "sentra",
+      "brand": "nissan",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "6": {
+      "id": 6,
+      "model": "maxima",
+      "brand": "nissan",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "7": {
+      "id": 7,
+      "model": "3",
+      "brand": "mazda",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "8": {
+      "id": 8,
+      "model": "6",
+      "brand": "mazda",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "9": {
+      "id": 9,
+      "model": "sonata",
+      "brand": "hyundai",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    },
+    "10": {
+      "id": 10,
+      "model": "elantra",
+      "brand": "hyundai",
+      "create_at": "2019-10-10 10:00:00",
+      "update_at": "2019-10-10 10:00:00"
+    }
+  }
